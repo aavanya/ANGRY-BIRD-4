@@ -1,2 +1,1 @@
-# ANGRY-BIRD-4
-KILL EM ALL
+# AngryBirdsStage4
